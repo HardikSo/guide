@@ -32,6 +32,14 @@ them. Alt text should be short and to the point--generally [no more than five to
 graphic is used to convey information that exceeds the limitations of alt text, that information should also exist as web text in order to be read by screen
 readers. [Learn more about alt text](https://webaim.org/techniques/alttext/).
 
+The needs that Web accessibility aims to address include:
+
+1. Visual: Visual impairments including blindness, various common types of low vision and poor eyesight, various types of color blindness;
+2. Motor/mobility: e.g. difficulty or inability to use the hands, including tremors, muscle slowness, loss of fine muscle control, etc., due to conditions such as Parkinson's disease, muscular dystrophy, cerebral palsy, stroke;
+3. Auditory: Deafness or hearing impairments, including individuals who are hard of hearing;
+4. Seizures: Photo epileptic seizures caused by visual strobe or flashing effects.
+5. Cognitive/Intellectual: Developmental disabilities, learning disabilities (dyslexia, dyscalculia, etc.), and cognitive disabilities of various origins, affecting memory, attention, developmental "maturity," problem-solving and logic skills, etc.
+
 Copyright &copy; 2005 <a href="http://www.w3.org" shape="rect">World Wide Web Consortium</a>, (<a href="http://www.csail.mit.edu/" shape="rect">MIT</a>, <a href="http://www.ercim.org" shape="rect">ERCIM</a>, <a href="http://www.keio.ac.jp" shape="rect">Keio</a>,<a href="http://ev.buaa.edu.cn" shape="rect">Beihang</a>). http://www.w3.org/Consortium/Legal/2015/doc-license
 
 ### More Information:
